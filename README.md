@@ -4,4 +4,4 @@ A simple repo to collect all my data analysis projects in one place. I am simply
 
 # Projects
 
-- Waiter Tips Analysis [[waiter_tips.ipynb]]
+- Waiter Tips Analysis
